@@ -1,4 +1,5 @@
-# LaserText v1.1
+# LaserText v1.1![lasertext_1280x360](https://github.com/BenMakesEverything/lasertext_v1-1/assets/133932153/90288ded-6ecd-47c7-ac09-8873edd00903)
+
 ### This is the (improved) code for my portable laser projector - as seen here: https://youtu.be/u9TpJ-_hBR8
 
 Improved version - this fixes many issues from the version that was shown in the video (1.0)
